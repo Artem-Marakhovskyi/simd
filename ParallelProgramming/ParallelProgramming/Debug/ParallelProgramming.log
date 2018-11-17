@@ -1,1 +1,10 @@
-﻿  ParallelProgramming.vcxproj -> D:\Projects\schedule\simd\ParallelProgramming\Debug\ParallelProgramming.exe
+﻿  ParallelProgramming.cpp
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(8): warning C4018: '<': signed/unsigned mismatch
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(16): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(21): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(39): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(50): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\schedule\simd\parallelprogramming\parallelprogramming\parallelprogramming.cpp(85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ParallelProgramming.vcxproj -> D:\Projects\schedule\simd\ParallelProgramming\Debug\ParallelProgramming.exe
