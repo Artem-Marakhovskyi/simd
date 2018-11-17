@@ -1,4 +1,1 @@
-﻿  ParallelProgramming.cpp
-c:\users\amara\source\repos\parallelprogramming\parallelprogramming\parallelprogramming.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\amara\source\repos\parallelprogramming\parallelprogramming\parallelprogramming.cpp(44): warning C4305: 'initializing': truncation from 'double' to 'float'
-  ParallelProgramming.vcxproj -> C:\Users\amara\source\repos\ParallelProgramming\Debug\ParallelProgramming.exe
+﻿  ParallelProgramming.vcxproj -> D:\Projects\schedule\simd\ParallelProgramming\Debug\ParallelProgramming.exe
